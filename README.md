@@ -1,6 +1,6 @@
 ### Hi there 👋
 -- I am currently working on my personal protfolio website project.
--- Just completed my website's main nav bar! 
+
 
 <!--
 **mishrasur7/mishrasur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
