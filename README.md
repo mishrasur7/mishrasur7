@@ -1,5 +1,5 @@
 ### Hi there 👋
--- I am currently working on my personal protfolio website project.
+-- I am currently working on my personal website project.
 
 
 <!--
