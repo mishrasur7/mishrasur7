@@ -3,7 +3,7 @@
 
 #### About me 
 * Business Information Technology student.
-* Great interest to work in a software engineering field. 
+* Great interest to work in software engineering field. 
 * Looking for internship or trainee positions as **Frontend**, **Backend** or **Fullstack developer**. 
 
 
