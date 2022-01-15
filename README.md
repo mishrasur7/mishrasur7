@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github page 
+:namaste: 
 
 :tada: 
 :fireworks: 
