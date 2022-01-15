@@ -1,21 +1,5 @@
 ### Hi there 👋
-
-# Suraj
-<style>H1{color:red;}</style>
-
--- I am currently working on my personal website project.
-
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
-# Color Test Document
-
-## Second Heading
-
-This is a test to see how the colors work.
+### Welcome to my Github page :namaste
 
 
 <!--
