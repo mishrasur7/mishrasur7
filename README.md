@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrasur7&label=Profile%20views&color=0e75b6&style=flat" alt="mishrasur7" /> </p>
+
 ### Hi, I am Suraj.
 ### Welcome to my Github page 😊 
 
@@ -6,7 +8,7 @@
 * Great interest to work in software engineering field. 
 * Looking for internship or trainee position as **UX/UI Designer**, **Frontend**, **Backend** or **Full Stack developer**. 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrasur7&label=Profile%20views&color=0e75b6&style=flat" alt="mishrasur7" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
 
