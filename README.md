@@ -4,7 +4,8 @@
 ### Welcome to my Github page 😊 
 
 #### About me 
-* Business Information Technology student.
+* Business Information Technology student at Haaga-Helia University of Applied Sciences.
+* Currently on third semester of studies. 
 * Great interest to work in software engineering field. 
 * Looking for internship or trainee position as **UX/UI Designer**, **Frontend**, **Backend** or **Full Stack developer**. 
 ---
