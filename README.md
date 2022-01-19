@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mishrasur7&label=Profile%20views&color=3FA796&style=flat" alt="mishrasur7" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mishrasur7&label=Profile%20views&color=3FA796&style=flat" alt="mishrasur7" /> </p>
 
 ### Hi, I am Suraj.
 ### Welcome to my Github page 😊 
