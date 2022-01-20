@@ -9,6 +9,8 @@
 * Great interest to work in software engineering field. 
 * Looking for internship or trainee position as **UX/UI Designer**, **Frontend**, **Backend** or **Full Stack developer**. 
 ---
+* Best friends **Google** and **YouTube**
+---
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
