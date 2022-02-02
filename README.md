@@ -4,7 +4,7 @@
 ### Welcome to my Github page 😊 
 
 #### About me 
-* Business Information Technology student at Haaga-Helia University of Applied Sciences.
+* BIT student at Haaga-Helia University of Applied Sciences.
 * Currently on third semester of studies. 
 * Great interest to work in software engineering field.
 * Currently learning **React** and **Spring Boot**
