@@ -11,7 +11,7 @@
 * Looking for internship or trainee position as **Frontend**, **Backend** or **Full Stack developer**. 
 ---
 #### Best friends
-* **Google** and **YouTube**
+* **Google**, **YouTube**, and **Console**
 ---
 
 
