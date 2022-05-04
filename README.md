@@ -10,7 +10,7 @@
 * Currently learning **React** and **Spring Boot**
 * Looking for internship or trainee position as **Frontend**, **Backend** or **Full Stack developer**. 
 ---
-#### Supporters
+#### True Supporters in learning
 * **Google**, **YouTube**, and **Console**
 ---
 
