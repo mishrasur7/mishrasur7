@@ -7,8 +7,7 @@
 * BIT student at Haaga-Helia University of Applied Sciences.
 * Currently on third semester of studies. 
 * Great interest to work in software engineering field.
-* Currently learning **React** and **Spring Boot**
-* Looking for internship or trainee position as **Frontend**, **Backend** or **Full Stack developer**. 
+* Currently learning **React** and **Spring Boot** 
 ---
 #### True Supporters in learning
 * **Google**, **YouTube**, and **Console**
