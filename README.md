@@ -9,10 +9,6 @@
 * Great interest to work in software engineering field.
 * Currently learning **React** and **Spring Boot** 
 ---
-#### True Supporters in learning
-* **Google**, **YouTube**, and **Console**
----
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
 
