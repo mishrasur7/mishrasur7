@@ -5,9 +5,9 @@
 
 #### About me 
 * BIT student at Haaga-Helia University of Applied Sciences.
-* Currently on third semester of studies. 
+* Completed third semester of studies. 
 * Great interest to work in software engineering field.
-* Currently learning **React** and **Spring Boot** 
+* Currently learning full stack development at Integrify.
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
