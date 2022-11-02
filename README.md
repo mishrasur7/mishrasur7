@@ -3,11 +3,7 @@
 ### Hi, I am Suraj.
 ### Welcome to my Github page 😊 
 
-#### About me 
-* BIT student at Haaga-Helia University of Applied Sciences.
-* Completed third semester of studies. 
-* Great interest to work in software engineering field.
-* Currently learning full stack development at Integrify.
+##### Diving into full stack
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
