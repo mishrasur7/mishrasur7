@@ -3,7 +3,7 @@
 ### Hi, I am Suraj.
 ### Welcome to my Github page 😊 
 
-##### Diving into full stack
+##### Currently diving into full stack
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
