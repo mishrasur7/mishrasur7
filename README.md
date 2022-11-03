@@ -1,9 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrasur7&label=Profile%20visitors&color=3FA796&style=flat" alt="mishrasur7" /> </p>
 
-# Currently diving into full stack
+# Currently Diving Into Full Stack
 ---
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishrasur7" alt="mishrasur7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
