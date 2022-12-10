@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrasur7&show_icons=true&locale=en&layout=compact" alt="mishrasur7" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mishrasur7&show_icons=true&locale=en" alt="mishrasur7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrasur7&" alt="mishrasur7" /></p>
+
